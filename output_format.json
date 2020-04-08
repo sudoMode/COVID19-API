@@ -1,0 +1,39 @@
+[
+	{
+		"counrty": "india",
+		"total_cases": 2000,
+		"total_deaths": 300,
+		"total_recovered": 500,
+		"location": {
+			"latitude": 21,
+			"longitude": 78
+		},
+		"region_wise_distribution": {
+			"agra": {
+				"total_cases": 120,
+				"total_deaths": 20,
+				"total_recovered": 35,
+				"location": {
+					"latitude": 19,
+					"longitude": 53
+				}
+
+			},
+			"delhi": {
+				"total_cases": 240,
+				"total_deaths": 50,
+				"total_recovered": 100,
+				"location": {
+					"latitude": 12,
+					"longitude": 33
+				}
+			},
+			"history": {
+				"29/03/2020": 1200,
+				"30/03/2020": 1500,
+				"31/03/2020": 2000
+			}
+		}
+	}
+
+]
